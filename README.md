@@ -1,4 +1,5 @@
 # Gradient Descent from Scratch
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alishbashahbaz/gradient-descent-from-scratch/blob/main/gradient_descent_project.ipynb)
 
 A numerical optimization project implementing gradient descent from scratch in Python and analysing its convergence behaviour.
 
