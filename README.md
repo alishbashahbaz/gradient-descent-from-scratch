@@ -110,6 +110,27 @@ This shows that the custom implementation closely approximated the optimal solut
 1. Download or clone this repository.
 2. Open `gradient_descent_project.ipynb` in Jupyter Notebook, VS Code, or Google Colab.
 3. Run the notebook cells from top to bottom.
+## Visualizations
+
+### Parameter Convergence
+
+![Theta Convergence](figures/theta_convergence.png)
+
+### Loss Convergence
+
+![Loss Convergence](figures/loss_convergence.png)
+
+### Gradient Convergence
+
+![Gradient Convergence](figures/gradient_convergence.png)
+
+### Learning Rate Comparison
+
+![Learning Rate Convergence](figures/learning_rate_convergence.png)
+
+### Learning Rate Comparison — Log Scale
+
+![Learning Rate Convergence Log Scale](figures/learning_rate_convergence_log.png)
 
 ## Skills Demonstrated
 
